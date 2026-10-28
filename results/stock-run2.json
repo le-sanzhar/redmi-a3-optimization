@@ -1,0 +1,125 @@
+{
+  "label": "stock-run2",
+  "timestamp": "2026-10-28T16:47:03",
+  "boot_seconds": 53.4,
+  "model": "23129RN51X",
+  "android": "14",
+  "rom": "V816.0.7.0.UGRMIXM",
+  "battery_level": 57,
+  "battery_temp_c": 30,
+  "packages_total": 280,
+  "packages_system": 245,
+  "packages_3rd": 35,
+  "packages_disabled": 6,
+  "data_used_gb": 31.4,
+  "data_free_gb": 20.26,
+  "MemTotal_mb": 2750,
+  "MemAvailable_mb": 1369,
+  "SwapTotal_mb": 3072,
+  "SwapFree_mb": 2187,
+  "swap_used_mb": 885,
+  "processes": 865,
+  "running_services": 72,
+  "load_1m": 13.06,
+  "load_5m": 11.65,
+  "cpu_total_pct": 22,
+  "cold_start": {
+    "com.android.settings": {
+      "first_ms": 2296,
+      "median_ms": 1090,
+      "runs": [
+        2296,
+        1092,
+        1088,
+        1086,
+        1129
+      ]
+    },
+    "com.android.chrome": {
+      "first_ms": 3725,
+      "median_ms": 2474,
+      "runs": [
+        3725,
+        2513,
+        2452,
+        2458,
+        2490
+      ]
+    },
+    "com.android.vending": {
+      "first_ms": 1174,
+      "median_ms": 915.5,
+      "runs": [
+        1174,
+        923,
+        922,
+        909,
+        829
+      ]
+    },
+    "com.google.android.dialer": {
+      "first_ms": 1803,
+      "median_ms": 1150.5,
+      "runs": [
+        1803,
+        1167,
+        1147,
+        1154,
+        1138
+      ]
+    },
+    "com.google.android.apps.messaging": {
+      "first_ms": 1306,
+      "median_ms": 876.5,
+      "runs": [
+        1306,
+        849,
+        865,
+        914,
+        888
+      ]
+    },
+    "com.google.android.youtube": {
+      "first_ms": 2972,
+      "median_ms": 2672.5,
+      "runs": [
+        2972,
+        2655,
+        2708,
+        2652,
+        2690
+      ]
+    }
+  },
+  "camera_viewfinder": {
+    "first_ms": 2351,
+    "median_ms": 1066,
+    "runs": [
+      2351,
+      1115,
+      1085,
+      1047,
+      1044
+    ]
+  },
+  "jank": {
+    "settings_scroll": {
+      "frames": 1191,
+      "janky": 17,
+      "janky_pct": 1.43,
+      "p50_ms": 9,
+      "p90_ms": 16,
+      "p95_ms": 20,
+      "p99_ms": 27
+    },
+    "launcher_swipe": {
+      "frames": 799,
+      "janky": 2,
+      "janky_pct": 0.25,
+      "p50_ms": 6,
+      "p90_ms": 7,
+      "p95_ms": 11,
+      "p99_ms": 15
+    }
+  }
+}
